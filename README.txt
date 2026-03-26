@@ -1,5 +1,4 @@
-1. Either using M3 or SuperPOD, we create conda env for this
-
-$ conda create -y -n langchain python=3.10
-$ conda activate langchain
-$ pip install -r requirements.txt
+This is 2nd workshop on the series of LLM on SuperPOD
+Pre-requisite for this workshops are the 2 workshops:
+- AI on SuperPOD
+- LLMs on SuperPOD
