@@ -9,9 +9,7 @@ This workshop introduce basic RAG technique using Ollama, Langchain running loca
 - Various document loading types
 - Various document splitting technique to chunks
 - Tokens, Tokenization and Contextual embedding
-- Semantic search
-- Reranker
-- Retrieval
+- Semantic search, Reranker, Retrieval
 - Basic RAG workflow
 
 Create conda env and install requirement:
